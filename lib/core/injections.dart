@@ -1,4 +1,0 @@
-
-Future<void> initInjections() async {
-
-}
